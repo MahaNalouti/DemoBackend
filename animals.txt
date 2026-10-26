@@ -3,3 +3,4 @@ Lion
 Chat
 tigre
 zebra
+wazgha
